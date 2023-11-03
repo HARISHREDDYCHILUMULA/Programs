@@ -1,0 +1,5 @@
+a=input('Enter string: ')
+b=input('Enter substring: ')
+d=input('Enter substring to replace: ')
+c=a.replace(b,d)
+print(c)
